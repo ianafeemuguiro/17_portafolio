@@ -1,0 +1,136 @@
+/* Header */
+.backgroundgray1{
+	background-color: #BDBDBD; 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backgroundyellow{
+	background-color: #FFBF00; 
+	background-repeat: no-repeat;
+	background-size: cover;
+    height: 500px;
+    width: 1262px;
+    margin-top: 50px;
+    margin-align:center;
+}
+
+.sumate{
+	color: white;
+	margin-top: 30%;
+	margin-left: 60%;
+}
+
+.inicio{
+	color: white;
+	margin-top: 30%;
+	margin-left:120%; 
+}
+
+.portafolio{
+	color: white;
+	margin-top: 30%;
+	margin-left: 50%;
+}
+
+.contacto{
+	color: white;
+	margin-top: 30%;
+}
+
+.laboratoria{
+	color: white;
+	text-align: center;
+	margin-top: 15%;
+	font-size: 190%;
+}
+.nuestrop{
+	color: white;
+	text-align: center;
+}
+/*Final Header*/
+
+/*Section*/
+
+.backgroundwhite{
+	background-color: white;
+	margin-top: 6%;
+}
+
+.aprendiendoimg{
+	width: 300px;
+	height: 300px;
+	margin-top: 6%;
+	margin-left: 16%;
+}
+.conociendohtmltitulo{
+	color: #2E2E2E;
+}
+.contenido1{
+	color: #2E2E2E;
+	 text-align: justify;
+    text-justify: inter-word;
+}
+.lenguajesimg{
+	width: 50%;
+	height: 300px;
+	margin-top: 6%;
+	margin-left: 25%;
+}
+
+.lenguajesdelawebtitulo{
+	color: #2E2E2E;
+}
+.contenido2{
+	color: #2E2E2E;
+	 text-align: justify;
+    text-justify: inter-word;
+}
+.nuestrascodersimg{
+	width: 45%;
+	height: 200px;
+	margin-top: 6%;
+	margin-left: 25%;
+}
+
+.nuestrasctitulo{
+	color: #2E2E2E;
+}
+.contenido3{
+	color: #2E2E2E;
+	 text-align: justify;
+    text-justify: inter-word;
+}
+.chicamaimg{
+	width: 60%;
+	height: 200px;
+	margin-top: 6%;
+	margin-left: 20%;
+}
+
+.chicamatitulo{
+	color: #2E2E2E;
+}
+.contenido4{
+	color: #2E2E2E;
+	 text-align: justify;
+    text-justify: inter-word;
+}
+/*Final Section*/
+/*Footer*/
+.backgroundgray2{
+	background-color: gray;
+	margin-top: 5%;
+	height: 100px;
+
+}
+.datosfinal{
+	color:white;
+}
+
+.botonsection4{
+	background-color: orange;
+	height: 40px;
+	width: 80px;
+	margin-left: 40%;
+}
